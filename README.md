@@ -1,4 +1,4 @@
-# Huawei Live Templates
+# HMS Live Templates
 Huawei Mobile Services &amp; App Gallery Connect Live Templates for Android Studio
 
 # Implementation
